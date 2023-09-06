@@ -1,0 +1,3 @@
+C:\src\CriblLogTest\CriblLogTest\obj\Debug\CriblLogTest.njsproj.AssemblyReference.cache
+C:\src\CriblLogTest\CriblLogTest\obj\Debug\CriblLogTest.njsproj.CoreCompileInputs.cache
+C:\src\CriblLogTest\CriblLogTest\bin\Microsoft.NodejsTools.WebRole.dll
