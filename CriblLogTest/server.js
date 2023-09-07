@@ -1,5 +1,10 @@
+// server.js
+// An HTTP server for returning events from a Windows system event log
+
+// Example:
 // http://localhost:1337?filename=application&count=25&search=*the*
 
+// Normally this would run as a Windows service. But for demonstration purposes, we will run this using node in a console window.
 
 'use strict';
 var http = require('http');
