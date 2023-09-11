@@ -1,7 +1,7 @@
 # CriblLogTest
 
-This project is an HTTP server that will return events from a Windows event log via a REST API.  
-The logfiles are normally stored in C:\Windows\System32\winevt\Logs.  
+This project is an HTTP server that will return events from a Windows event log via a REST API. It was developed using Visual Studio, and has a SLN file, but the server code is contained entirely in ```server.js```  
+Windows logfiles are normally stored in C:\Windows\System32\winevt\Logs.  
 The main ones of interest are: system, security, application, and setup.  
 Newest events are returned first.
 
